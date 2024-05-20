@@ -74,3 +74,67 @@ We developed **Food Waste Watchers** using advanced AI technologies like GPT-4 f
 - **Phase 1**: Launch the beta version of the app.
 - **Phase 2**: Gather user feedback and improve features.
 - **Phase 3**: Expand the app to include more AI-driven tools and features.
+
+# Project Code Overview
+
+This document provides an overview of the Food Waste Watchers project code, detailing the main components, their functionalities, and contributions made by each team member.
+
+## Project Structure
+
+The project is organized into several key components:
+1. **Main Page**
+2. **Feature 1: Recipe Creation**
+3. **Feature 2: Portion Control**
+4. **Feature 3: Food Storage Assist Bot**
+
+Each feature has its dedicated script file and a config file for page settings.
+
+### Main Page
+
+**File:** `main_page.py`
+
+**Description:** The main page serves as the central hub for the application, providing navigation links to each of the features. It includes a welcome message, a brief introduction to the application, and links to navigate to the different features.
+
+**My Contributions:**
+- Designed and implemented the main page layout.
+- Developed intuitive navigation links for seamless user experience.
+- Incorporated UI elements to enhance the visual appeal.
+
+### Feature 1: Recipe Creation
+
+**Files:** 
+- `feature_1_final.py`
+- `recipe_creation_config.py`
+
+**Description:** This feature allows users to upload images of their fridge contents and receive recipe suggestions based on the visible ingredients. The system uses GPT-4 Vision to analyze the images and generate relevant recipes with calorie counts.
+
+**My Contributions:**
+- Developed the image upload and processing functionality.
+- Integrated GPT-4 Vision API for image recognition and recipe generation.
+- Designed the UI for the Recipe Creation feature to ensure ease of use.
+
+### Feature 2: Portion Control
+
+**Files:** 
+- `feature_2_final.py`
+- `portion_control_config.py`
+
+**Description:** This feature helps users determine appropriate portion sizes for different ingredients. Users can upload a PDF containing an ingredient list, and the system will generate recommended portion sizes to reduce food waste.
+
+**Contributions:**
+- While I did not directly work on this feature, I coordinated with the team to ensure consistency across all features.
+
+### Feature 3: Food Storage Assist Bot
+
+**Files:** 
+- `feature_3_final.py`
+- `food_storage_config.py`
+
+**Description:** This feature provides users with tips on proper food storage to maximize freshness and minimize waste. Users can input food items, and the system will offer detailed storage guidelines, highlighting high-risk foods for bacterial growth.
+
+**Contributions:**
+- Similar to Feature 2, my role was primarily in coordination and ensuring a unified design across the application.
+
+## Summary
+
+The Food Waste Watchers project is a collaborative effort aimed at reducing food waste through AI-driven solutions. Each feature addresses a specific aspect of food management, from meal preparation to portion control and storage tips. My primary contributions focused on developing the Recipe Creation feature, designing the main page, and enhancing the overall user interface to provide a seamless and engaging experience.
