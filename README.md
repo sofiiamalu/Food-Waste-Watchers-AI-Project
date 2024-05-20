@@ -75,6 +75,11 @@ We developed **Food Waste Watchers** using advanced AI technologies like GPT-4 f
 - **Phase 2**: Gather user feedback and improve features.
 - **Phase 3**: Expand the app to include more AI-driven tools and features.
 
+## Demo Video
+
+Please see our demo video here:
+https://drive.google.com/file/d/1WrvgmTGW8b8I1wpNtY8msCu4kMpYmN5_/view?usp=drive_link
+
 # Project Code Overview
 
 This document provides an overview of the Food Waste Watchers project code, detailing the main components, their functionalities, and contributions made by each team member.
