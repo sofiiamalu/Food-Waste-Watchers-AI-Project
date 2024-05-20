@@ -96,8 +96,6 @@ Each feature has its dedicated script file and a config file for page settings.
 
 ### Main Page
 
-**File:** `main_page.py`
-
 **Description:** The main page serves as the central hub for the application, providing navigation links to each of the features. It includes a welcome message, a brief introduction to the application, and links to navigate to the different features.
 
 **My Contributions:**
@@ -106,10 +104,6 @@ Each feature has its dedicated script file and a config file for page settings.
 - Incorporated UI elements to enhance the visual appeal.
 
 ### Feature 1: Recipe Creation
-
-**Files:** 
-- `feature_1_final.py`
-- `recipe_creation_config.py`
 
 **Description:** This feature allows users to upload images of their fridge contents and receive recipe suggestions based on the visible ingredients. The system uses GPT-4 Vision to analyze the images and generate relevant recipes with calorie counts.
 
@@ -120,20 +114,12 @@ Each feature has its dedicated script file and a config file for page settings.
 
 ### Feature 2: Portion Control
 
-**Files:** 
-- `feature_2_final.py`
-- `portion_control_config.py`
-
 **Description:** This feature helps users determine appropriate portion sizes for different ingredients. Users can upload a PDF containing an ingredient list, and the system will generate recommended portion sizes to reduce food waste.
 
 **Contributions:**
 - While I did not directly work on this feature, I coordinated with the team to ensure consistency across all features.
 
 ### Feature 3: Food Storage Assist Bot
-
-**Files:** 
-- `feature_3_final.py`
-- `food_storage_config.py`
 
 **Description:** This feature provides users with tips on proper food storage to maximize freshness and minimize waste. Users can input food items, and the system will offer detailed storage guidelines, highlighting high-risk foods for bacterial growth.
 
